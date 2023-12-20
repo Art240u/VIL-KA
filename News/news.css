@@ -1,0 +1,15 @@
+body{
+    width: 1440px;
+    height: 1024px;
+}
+.conteiner1c{
+        height: 50px;
+        width: 1440px;
+        border-radius: 0%;
+        background: #D94925;
+        margin-left:8px ;
+        /*ниже свойства текста в контейнере*/
+        text-align:center;/*выравнивание текста*/
+        color:white;/*цвет текста в контейнере*/
+        font-size: 25px; /*размер шрифта*/
+    }
