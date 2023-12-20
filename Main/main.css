@@ -1,0 +1,55 @@
+.body{
+    width: 100%;
+    height: 2000px;
+   
+}
+
+.lineHead{
+    width: 100%;
+    height: 50px;
+    flex-shrink: 0;
+    background-color: rgba(217, 73, 37, 1);
+}
+
+.shadowHead{
+    width: 100%;
+    height: 50px;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.header{
+    width: 100%
+}
+
+.main{
+    width: 100%;
+    height: 1100px;
+    /* background-color: rgba(127, 255, 212, 0.17); */
+     background-image: url("../Img/academ-26154-1080.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mainButton{
+    width: 750px;
+    height: 150px;
+    background-color: rgba(217, 73, 37, 1);
+    border-radius: 50px;
+    text-align: center;
+}
+
+.lineFoot{
+    width: 100%;
+    height: 50px;
+    flex-shrink: 0;
+    background-color: rgba(217, 73, 37, 1);
+}
+
+.shadowFoot{
+    width: 100%;
+    height: 50px;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0.25);
+}
