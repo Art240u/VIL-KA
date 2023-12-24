@@ -38,6 +38,7 @@
     background-color: rgba(217, 73, 37, 1);
     border-radius: 50px;
     text-align: center;
+    justify-content: center;
 }
 
 .lineFoot{
