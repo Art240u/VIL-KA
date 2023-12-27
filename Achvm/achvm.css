@@ -29,7 +29,7 @@
     margin-right: 1%;
 }
 
-.aboutText{
+.achvmText{
     width: 200px; 
     height: 45px; 
     color: black; 
@@ -78,4 +78,43 @@
     height: 131px;
     margin-left: 1%;
     margin-right: 1%;
+}
+
+
+
+
+
+.main{
+    width: 100%; 
+    height: 100%; 
+    position: relative
+}
+
+.imgMain{
+    width: 170px; 
+    height: 170px;
+    position: absolute; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+    border-radius: 100%;
+}
+
+.infoBlockMain{
+    width: 550px; 
+    height: 400px;
+    position: absolute; 
+    background: #B8B1B1; 
+    border-radius: 50px;
+}
+
+.shadowBlockMain{
+    width: 550px; 
+    height: 400px;
+    position: absolute; 
+    opacity: 0.50; 
+    background: black; 
+    border-radius: 50px;
+}
+
+.toOther{
+    text-decoration: none;
 }
