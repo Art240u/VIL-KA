@@ -1,0 +1,187 @@
+body{
+    margin: 0px;
+    background-color: white;
+}
+.underLine{ 
+    display: flex; 
+    justify-content: space-between; 
+} 
+ 
+.newsButton{ 
+    width: 200px;  
+    height: 45px;  
+    color: black;  
+    font-size: 36px;  
+    font-family: Inter;  
+    font-weight: 700;  
+    word-wrap: break-word; 
+    flex-shrink: 0; 
+    margin-left: 1%; 
+    margin-right: 1%; 
+} 
+ 
+.aboutButton{ 
+    width: 200px;  
+    height: 45px;  
+    color: black;  
+    font-size: 36px;  
+    font-family: Inter;  
+    font-weight: 700;  
+    word-wrap: break-word; 
+    flex-shrink: 0; 
+    margin-left: 1%; 
+    margin-right: 1%; 
+} 
+ 
+.aboutText{ 
+    width: 200px;  
+    height: 45px;  
+    color: black;  
+    font-size: 36px;  
+    font-family: Inter;  
+    font-weight: 700;  
+    word-wrap: break-word; 
+    flex-shrink: 0; 
+} 
+ 
+.applButton{ 
+    width: 200px;  
+    height: 45px;  
+    color: black;  
+    font-size: 36px;  
+    font-family: Inter;  
+    font-weight: 700;  
+    word-wrap: break-word; 
+    flex-shrink: 0; 
+    margin-left: 1%; 
+    margin-right: 1%; 
+} 
+ 
+.achvmButton{ 
+    width: 200px;  
+    height: 45px;  
+    color: black;  
+    font-size: 36px;  
+    font-family: Inter;  
+    font-weight: 700;  
+    word-wrap: break-word; 
+    flex-shrink: 0; 
+    margin-left: 1%; 
+    margin-right: 1%; 
+} 
+ 
+.lineHead{ 
+    width: 100%;  
+    height: 50px;  
+    background: rgba(217, 73, 37, 1); 
+    flex-shrink: 0; 
+} 
+ 
+.Acamd{ 
+    width: 323px;  
+    height: 131px; 
+    margin-left: 1%; 
+    margin-right: 1%; 
+}
+.containerMain{
+    width: 100%;
+height: 300px;
+flex-shrink: 0;
+background: #D9D9D9;
+}
+.lineMain{
+    width: 100%;
+height: 23px;
+flex-shrink: 0;
+background: #DC4545;
+display: flex;
+flex-grow: 2;
+}
+.surnameMain{
+    color: #000;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+flex-grow: 2;
+}
+.nameMain{
+    color: #000;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+flex-grow: 2;
+}
+.classMain{
+    color: #000;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+flex-grow: 2;
+}
+.emailMain{
+    color: #000;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+flex-grow: 2;
+}
+.teleMain{
+    color: #000;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+flex-grow: 2;
+}
+.aboutMain{
+    color: #000;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+left: 10px;
+}
+.blockMain{
+flex-shrink: 0;
+background: #FFFBFB;
+left: 200px;
+height: 200px;
+width: 400px;
+}
+.blockMain1{
+    flex-shrink: 0;
+background: #FFFBFB;
+left: 200px;
+height: 200px;
+width: 400px;
+}
+.blockMain2{
+    flex-shrink: 0;
+background: #FFFBFB;
+left: 200px;
+height: 200px;
+width: 400px;
+}
+.blockMain3{
+    flex-shrink: 0;
+background: #FFFBFB;
+left: 200px;
+height: 200px;
+width: 400px;
+}
+.containerMain2{
+    width: 100px;
+    height: 50px;
+    left: 200px;
+    background: black;
+}
